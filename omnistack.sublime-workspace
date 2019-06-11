@@ -1,0 +1,902 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"copyFile",
+				"fs.copyFileSync"
+			],
+			[
+				"console",
+				"console.debug"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"O",
+				"Observable"
+			],
+			[
+				"Cart",
+				"CartItem"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"car",
+				"cartService"
+			],
+			[
+				"o",
+				"orderService"
+			],
+			[
+				"item",
+				"itemsValue"
+			],
+			[
+				"NOME",
+				"NOME_ANIMAL"
+			],
+			[
+				"CODIGO",
+				"CODIGO_SOLICITACAO_EXAME"
+			],
+			[
+				"clinicas",
+				"$clinicasFomriga〔variable〕"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"fun",
+				"function_exists〔function〕"
+			],
+			[
+				"cod",
+				"cod_interno"
+			],
+			[
+				"trans",
+				"trans_begin"
+			],
+			[
+				"codi",
+				"$codInterno〔variable〕"
+			],
+			[
+				"lista",
+				"listaExames〔variable〕"
+			],
+			[
+				"resulta",
+				"result_array"
+			],
+			[
+				"solic",
+				"solicitacao_laudo"
+			],
+			[
+				"Servi",
+				"Servidores"
+			],
+			[
+				"easy",
+				"easyui-tooltip"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"mr",
+				"mr_conferencia"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"ler",
+				"lerXml"
+			],
+			[
+				"leit",
+				"$leitor〔variable〕"
+			],
+			[
+				"simp",
+				"simplexml_load_file〔function〕"
+			],
+			[
+				"mr_conferi",
+				"mr_conferencia.protocolo"
+			],
+			[
+				"ea",
+				"easyui-linkbutton"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"set",
+				"setVars〔function〕"
+			],
+			[
+				"simpl",
+				"simplexml_load_file〔function〕"
+			],
+			[
+				"ht",
+				"htmlentities"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"debug",
+				"debug_print_backtrace〔function〕"
+			],
+			[
+				"deb",
+				"debug_backtrace〔function〕"
+			],
+			[
+				"func_get_ar",
+				"func_get_args"
+			],
+			[
+				"min-h",
+				"min-height: 〔property〕"
+			],
+			[
+				"max",
+				"max-height: 〔property〕"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "backend/package.json",
+			"settings":
+			{
+				"buffer_size": 272,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "backend/src/index.js",
+			"settings":
+			{
+				"buffer_size": 286,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "backend/src/routes.js",
+			"settings":
+			{
+				"buffer_size": 208,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "backend/src/models/Post.js",
+			"settings":
+			{
+				"buffer_size": 324,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "backend/src/controllers/PostController.js",
+			"settings":
+			{
+				"buffer_size": 188,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "# Specify filepatterns you want git to ignore.\n\n",
+			"file": ".gitignore",
+			"file_size": 48,
+			"file_write_time": 132047332137946815,
+			"settings":
+			{
+				"buffer_size": 48,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "backend/rest-test/post",
+			"settings":
+			{
+				"buffer_size": 62,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"res",
+				"RESTer: HTTP Request"
+			],
+			[
+				"rester",
+				"RESTer: HTTP Request"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"synta",
+				"Set Syntax: PHP"
+			],
+			[
+				"todo",
+				"Set Syntax: Todo"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 605.0
+	},
+	"console":
+	{
+		"height": 87.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ls",
+			"exit",
+			"git checkout"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/marceloratton/Documentos/projetos/omnistack"
+	],
+	"file_history":
+	[
+		"/home/marceloratton/.config/sublime-text-3/Packages/RESTer HTTP Client/RESTer.sublime-settings",
+		"/home/marceloratton/Documentos/projetos/omnistack/backend/rest-test/post",
+		"/home/marceloratton/Documentos/projetos/omnistack/.gitignore",
+		"/home/marceloratton/.config/sublime-merge/Packages/User/Preferences.sublime-settings",
+		"/home/marceloratton/Documentos/projetos/bkpgdrive/package.json",
+		"/home/marceloratton/Documentos/projetos/bkpgdrive/config.json",
+		"/home/marceloratton/Documentos/projetos/bkpgdrive/bkpgdrive.js",
+		"/home/marceloratton/Documentos/projetos/bkpgdrive/index.js",
+		"/home/marceloratton/Documentos/projetos/bkpgdrive/backup.js",
+		"/home/marceloratton/Documentos/projetos/bkpgdrive/gdrive.js",
+		"/home/marceloratton/Documentos/projetos/bkpgdrive/gdrive-auth.js",
+		"/home/marceloratton/Documentos/projetos/bkpgdrive/.gitignore",
+		"/home/marceloratton/Documentos/projetos/bkpgdrive/source.txt",
+		"/home/marceloratton/Documentos/projetos/hsjd/application/views/status/servers-status.php",
+		"/home/marceloratton/Documentos/projetos/bkpgdrive/teste.js",
+		"/home/marceloratton/Documentos/projetos/bkpgdrive/bkp-drive.js",
+		"/home/marceloratton/Documentos/projetos/bkpgdrive/bkp-credentials.json",
+		"/home/marceloratton/Documentos/infolab/backup/credentials.json",
+		"/home/marceloratton/Documentos/infolab/backup/google-api-credentials.txt",
+		"/home/marceloratton/Documentos/infolab/backup/gdrive.js",
+		"/home/marceloratton/Documentos/infolab/backup/index.js",
+		"/home/marceloratton/Documentos/infolab/backup/send-file.js",
+		"/media/marceloratton/pen-ratto/recuperados/f254641592.xml",
+		"/media/marceloratton/pen-ratto/recuperados/f134245840.xml",
+		"/media/marceloratton/pen-ratto/recuperados/f173566072.xml",
+		"/home/marceloratton/Documentos/labvida/referencias-laudos-autolac.csv",
+		"/media/marceloratton/pen-ratto/recuperados/1444823-f0000864.rtf",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/urina-rotina.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/calcio-ionico.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/hemograma.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/acido-urico.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/albumina.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/tgp.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/amilase.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/tgo.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/bilirrubinas-total-fracoes.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/cloreto.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/colesterol-total-fracoes.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/ckmb.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/cpk.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/creatinina.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/fosfatase-alcalina.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/fosforo.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/gama-gt.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/glicose.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/ldh.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/lipase.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/magnesio.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/potassio.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/proteina-total.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/trigliceres.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/ureia.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/colesterol-hdl.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/colesterol-total.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/ldh-htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/colesterol-ldl.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/laudos/colesterol-ldl",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/base-hemograma.html",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/epf.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/psa-total-livre.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/cabecalho-laudo.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/beta-hcg.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/hemograma-2.htm",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/hemograma-2",
+		"/home/marceloratton/Documentos/infolab/resultados-manual/cabecalho-laudo",
+		"/home/marceloratton/Documentos/labvida/de-para.csv",
+		"/home/marceloratton/Documentos/labvida/info-lab/lista-exame-codigo-valor.csv",
+		"/home/marceloratton/Documentos/infolab/arquivos-viu/Receber/20190510160601033.res",
+		"/media/marceloratton/pen-ratto/projetos/pessoal/site-pessoal/Alstar/color/default.css",
+		"/media/marceloratton/pen-ratto/projetos/pessoal/site-pessoal/Alstar/css/style.css",
+		"/media/marceloratton/pen-ratto/projetos/pessoal/site-pessoal/Alstar/index.html",
+		"/home/marceloratton/Documentos/projetos/site-pessoal/Alstar/index.html",
+		"/home/marceloratton/Documentos/projetos/site-pessoal/Alstar/js/custom.js",
+		"/home/marceloratton/Documentos/projetos/site-pessoal/Alstar/js/stellar.js",
+		"/home/marceloratton/Documentos/labvida/hsjd/componentes-exames-todos.csv",
+		"/home/marceloratton/Documentos/labvida/hsjd/componentes-dados.csv",
+		"/home/marceloratton/Documentos/labvida/hsjd/componentes-exames-uro.cult.csv",
+		"/home/marceloratton/Área de Trabalho/infoLab/ChavesPermanentes.csv",
+		"/home/marceloratton/Documentos/labvida/hsjd/laudo/layout/HMG.rtf",
+		"/media/marceloratton/1FB7094823E5F5FA/projetos/hsjd/public/docs/relats/2017-10-1.csv",
+		"/home/marceloratton/Área de Trabalho/relats/com-codigo-pedido/novo-PEDIDOS_MV2000_NOV_2017_BRUNO (1).csv",
+		"/home/marceloratton/Área de Trabalho/relats/com-codigo-pedido/teste.csv",
+		"/media/marceloratton/1FB7094823E5F5FA/projetos/estoque/application/views/painel/top_grafico.php",
+		"/home/marceloratton/Downloads/PyPDF2-master/setup.py",
+		"/media/marceloratton/1FB7094823E5F5FA/projetos/python/lerPdf/pdfminer-master/tools/dumppdf.py",
+		"/media/marceloratton/1FB7094823E5F5FA/projetos/python/lerPdf/pdfminer-master/tools/pdf2txt.py",
+		"/media/marceloratton/1FB7094823E5F5FA/projetos/python/lerPdf/ler.py",
+		"/home/marceloratton/Área de Trabalho/relats/com-codigo-pedido/2018-12-0.csv",
+		"/home/marceloratton/Área de Trabalho/relats/com-codigo-pedido/Dez 1-1075.csv",
+		"/media/marceloratton/1FB7094823E5F5FA/projetos/clinvet/site/assets/js/main.js",
+		"/media/marceloratton/1FB7094823E5F5FA/projetos/clinvet/site/index.html",
+		"/media/marceloratton/1FB7094823E5F5FA/projetos/hello/config.xml",
+		"/media/marceloratton/1FB7094823E5F5FA/projetos/hello/package.json",
+		"/media/marceloratton/1FB7094823E5F5FA/projetos/hello/www/index.html",
+		"/media/marceloratton/1FB7094823E5F5FA/projetos/hello/platforms/android/app/build/outputs/apk/debug/output.json",
+		"/media/marceloratton/1FB7094823E5F5FA/projetos/hello/platforms/android/CordovaLib/build.gradle",
+		"/media/marceloratton/1FB7094823E5F5FA/projetos/hello/platforms/android/build.gradle",
+		"/media/marceloratton/1FB7094823E5F5FA/projetos/hello/platforms/android/app/build.gradle",
+		"/home/marceloratton/Documentos/projetos/appAngular/meat-app-starter/src/app/order/order.service.ts",
+		"/home/marceloratton/Documentos/projetos/appAngular/meat-app-starter/src/app/order/order.component.html",
+		"/home/marceloratton/Documentos/projetos/appAngular/meat-app-starter/src/app/order/order.model.ts",
+		"/home/marceloratton/Documentos/projetos/appAngular/meat-app-starter/src/app/order/order.component.ts",
+		"/home/marceloratton/Documentos/projetos/appAngular/meat-app-starter/src/app/app.module.ts",
+		"/home/marceloratton/Documentos/projetos/appAngular/meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html",
+		"/home/marceloratton/Documentos/projetos/appAngular/meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts",
+		"/home/marceloratton/Documentos/projetos/appAngular/meat-app-starter/src/app/order/order-items/order-items.component.html",
+		"/home/marceloratton/Documentos/projetos/appAngular/meat-app-starter/src/app/app.routes.ts",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/views/rel_faturamento_unit.php",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/models/Mfinanceiro.php",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/controllers/Financeiro.php",
+		"/home/marceloratton/Documentos/projetos/sisvet/table-faturamento.sql",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/helpers/calculos_helper.php",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/views/rel_faturamento.php",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/views/layout.php",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/views/frm_consulta_precos.php",
+		"/home/marceloratton/Documentos/projetos/sisvet/public/css/stylesheet.css",
+		"/home/marceloratton/Documentos/projetos/sisvet/public/css/biovet.min.css",
+		"/home/marceloratton/Documentos/projetos/sisvet/public/css/jquery.mobile.min.css",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/views/menu.php",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/views/modelo/laudo_126.php",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/controllers/Precos.php",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/models/Mprecos.php",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/views/rel_faturamento_proprietario.php",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/views/rel_faturamento_datas.php",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/views/lst_solicitacao.php",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/controllers/Solicitacao.php",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/models/Msolicitacao.php",
+		"/home/marceloratton/Documentos/projetos/sisvet/application/controllers/Laudo.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			"/media/marceloratton/pen-ratto/projetos/pessoal/site-pessoal/Alstar",
+			"/home/marceloratton/Documentos/projetos/site-pessoal/Alstar/css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"configContend",
+			",",
+			"canino",
+			">",
+			" - canino 0 a 3 meses",
+			" - canino acima de 8 anos:",
+			"canino",
+			" - canino acima de 8 anos",
+			"#3A3A3A",
+			"#2b3c44",
+			"#00086b",
+			"footer",
+			"favico",
+			"[ + ]",
+			"Read More",
+			"footer",
+			"JOSINA MARIA",
+			"Requisição:",
+			";",
+			"Data:",
+			"Requisição:;;;;;;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"",
+			"#020754",
+			"020754",
+			"#2b3c44",
+			"+",
+			"[ + ]",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/marceloratton/Documentos/projetos/omnistack"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "backend/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Theme - Monokai+/icons/Langs/npm JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "backend/src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								259,
+								259
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "backend/src/routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "backend/src/models/Post.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "backend/src/controllers/PostController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": ".gitignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 48,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Theme - Monokai+/icons/Langs/Git.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "backend/rest-test/post",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 62,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RESTer HTTP Client/http.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 318.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 173.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rel_faturamento",
+				"application/views/rel_faturamento.php"
+			],
+			[
+				"mfin",
+				"application/models/Mfinanceiro.php"
+			],
+			[
+				"lst_sol",
+				"application/views/lst_solicitacao.php"
+			],
+			[
+				"soli",
+				"application/controllers/Solicitacao.php"
+			],
+			[
+				"rel_fatura",
+				"application/views/rel_faturamento.php"
+			],
+			[
+				"relaca",
+				"application/views/relacao_exames.php"
+			],
+			[
+				"layout",
+				"application/views/layout.php"
+			],
+			[
+				"frm_soli",
+				"application/views/frm_solicitacao_exame.php"
+			],
+			[
+				"imprim",
+				"application/views/imprimir_solicitacao.php"
+			],
+			[
+				"frm_",
+				"application/views/frm_solicitacao_exame.php"
+			],
+			[
+				"ver",
+				"application/views/ver_resultado_2.php"
+			],
+			[
+				"ver_res",
+				"application/views/ver_resultado.php"
+			],
+			[
+				"msoli",
+				"application/models/Msolicitacao.php"
+			],
+			[
+				"frm_sol",
+				"application/views/frm_solicitacao_exame.php"
+			],
+			[
+				"cabecalh",
+				"application/views/cabecalho_solic.php"
+			],
+			[
+				"solic",
+				"application/controllers/Solicitacao.php"
+			],
+			[
+				"exame",
+				"application/views/relacao_exames.php"
+			],
+			[
+				"my_mo",
+				"application/core/MY_Model.php"
+			],
+			[
+				"my",
+				"application/core/MY_Model.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documentos/projetos/controle/controle.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 418.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
