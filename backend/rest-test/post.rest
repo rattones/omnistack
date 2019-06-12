@@ -1,0 +1,25 @@
+@hostname = localhost
+@port = 3333
+@host = {{hostname}}:{{port}}
+@contentType = multipart/form-data
+@createdAt = {{$datetime iso8601}}
+
+
+POST http://{{host}}/posts
+Content-Type: {{contentType}} boundary=----WebKitFormBoundary7MA4YWxkTrZu0gW
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="author"
+author: "Marcelo Ratton"
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="place"
+place: Divinópolis - MG
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="description"
+description: teste de post via vscode extention
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="hashtags"
+hashtags: rocketseat
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="image"; filename="guarda-leao.png"
+Content-Type: image/png
+image: < .~/Imagens/guarda-leao.png

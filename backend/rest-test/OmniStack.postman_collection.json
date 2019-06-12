@@ -1,0 +1,117 @@
+{
+	"info": {
+		"_postman_id": "48edbc4c-4db0-47ca-9d8f-a552ef06f111",
+		"name": "OmniStack",
+		"description": "semana omnistack da rocketseat",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "create",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "author",
+							"value": "Marcelo Ratton",
+							"type": "text"
+						},
+						{
+							"key": "place",
+							"value": "Divinópolis - MG",
+							"type": "text"
+						},
+						{
+							"key": "description",
+							"value": "teste de post com dados e images",
+							"type": "text"
+						},
+						{
+							"key": "hashtags",
+							"value": "rocketseat",
+							"type": "text"
+						},
+						{
+							"key": "image",
+							"value": "",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/home/rattones/Imagens/zuera/deus-viu.jpg"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:3333/posts",
+					"host": [
+						"localhost"
+					],
+					"port": "3333",
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "find",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3333/posts",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3333",
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "like-post",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3333/posts/:id/like",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3333",
+					"path": [
+						"posts",
+						":id",
+						"like"
+					],
+					"variable": [
+						{
+							"key": "id",
+							"value": ""
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
