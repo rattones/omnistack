@@ -112,6 +112,39 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "delete",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3333/posts/:id",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3333",
+					"path": [
+						"posts",
+						":id"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": "",
+							"disabled": true
+						}
+					],
+					"variable": [
+						{
+							"key": "id",
+							"value": "5d03167baf952f2d52285dd5"
+						}
+					]
+				}
+			},
+			"response": []
 		}
 	]
 }
