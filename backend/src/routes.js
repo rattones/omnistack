@@ -10,6 +10,7 @@ const upload = multer(uploadConfig)
 
 routes.post('/posts', upload.single('image'), PostController.store)
 routes.get('/posts', PostController.index)
+routes.delete('/posts/:id', PostController.delete)
 
 routes.post('/posts/:id/like', LikeController.store)
 
