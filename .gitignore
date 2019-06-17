@@ -65,3 +65,7 @@ typings/
 
 # project diretories
 */uploads
+
+# project files of IDE configuration
+omnistack.code-workspace
+omnistack.sublime-workspace
